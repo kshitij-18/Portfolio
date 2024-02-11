@@ -1,6 +1,6 @@
 
 import Timeline from '@mui/lab/Timeline';
-import TimelineItem, { timelineItemClasses } from '@mui/lab/TimelineItem';
+import { timelineItemClasses } from '@mui/lab/TimelineItem';
 import TimelineCard from './TimelineCard';
 
 function ExperienceTimeLine() {

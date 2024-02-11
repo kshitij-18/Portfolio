@@ -9,7 +9,7 @@ type LayoutProps = {
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <ScrollArea scrollHideDelay={200} type='scroll' className='h-screen w-screen bg-white dark:bg-slate-800'>
+    <ScrollArea scrollHideDelay={200} type='scroll' className='h-screen w-screen bg-slate-200 dark:bg-slate-800'>
       <Menubar className='w-full sticky py-8 justify-end bg-transparent opacity-85 px-6'>
         <MenubarMenu>
           <ModeToggle />

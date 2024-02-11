@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "company": "Successive Digital",
+            "highlight": "Leveraged the virtues of MERN stack to build modern and scalable solutions.",
+            "workPoints": [
+                {
+                    "text": "Won the Constant Companion Award in the company's annual event to mark my achievements in the year 2022-23.",
+                    "highlight": true
+                },
+                {
+                    "text": "Won the Star Performer Award for the month of August 2023.",
+                    "highlight": true
+                },
+                {
+                    "text": "Interviewed candidates from within our organization to be onboarded to the project.",
+                    "highlight": true
+                },
+                {
+                    "text": "Implemented a POC on implementing Keycloak in one of the offline applications in our project."
+                },
+                {
+                    "text": "Automated issual of notices against students in the current project, which removed the need for human intervention by 100%"
+                },
+                {
+                    "text": "Implemented soft delete functionality for many entities in the project."
+                },
+                {
+                    "text": "Worked on GraphQL subscriptions to show real time logs for an Ad Campaign."
+                }
+            ]
+        }
+    ]
+}

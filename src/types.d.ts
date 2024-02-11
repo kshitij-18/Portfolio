@@ -3,3 +3,8 @@ export enum Theme {
     dark = "dark",
     light = "light"
 }
+
+export enum Alignment {
+    Left = 'left',
+    Right = 'right',
+}

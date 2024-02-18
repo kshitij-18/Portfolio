@@ -3,6 +3,8 @@
         {
             "company": "Successive Digital",
             "highlight": "Leveraged the virtues of MERN stack to build modern and scalable solutions.",
+            "workDuration": "March 2022 - Present",
+            "location": "Noida",
             "workPoints": [
                 {
                     "text": "Won the Constant Companion Award in the company's annual event to mark my achievements in the year 2022-23.",
@@ -27,6 +29,37 @@
                 },
                 {
                     "text": "Worked on GraphQL subscriptions to show real time logs for an Ad Campaign."
+                }
+            ]
+        },
+        {
+            "company": "Bewakoof Brands Pvt Ltd.",
+            "highlight": "Worked as a Backend Developer reducing latencies.",
+            "workDuration": "January 2022 - March 2022",
+            "location": "Bangalore (Remote)",
+            "workPoints": [
+                {
+                    "text": "Implemented various methods like async programming concepts to reduce the latency for customers using custom design functionality.",
+                    "highlight": true
+                },
+                {
+                    "text": "Brought down the average wait time for a user using custom tshirt functionality by 50%.",
+                    "highlight": true
+                }
+            ]
+        },
+        {
+            "company": "Cognizant Technology Solutions",
+            "highlight": "Worked on Java and Manual Testing Concepts",
+            "workDuration": "July 2021 - January 2022",
+            "location": "Chennai (Remote)",
+            "workPoints": [
+                {
+                    "text": "Implemented a form validator using JS driver in Java.",
+                    "highlight": true
+                },
+                {
+                    "text": "Learnt how Manual QA works and how essential it is in modern day web development."
                 }
             ]
         }

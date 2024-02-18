@@ -1,9 +1,9 @@
-import Timeline from '@/components/Timeline/Timeline'
+import { ExperienceCarousel } from '@/components/Carousel/ExperienceCarousel'
 
 const ExperienceSection = () => {
   return (
-    <div className='flex justify-start px-10 pt-5'>
-        <Timeline />
+    <div className='flex justify-center py-5'>
+        <ExperienceCarousel />
     </div>
   )
 }

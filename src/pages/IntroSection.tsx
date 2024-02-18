@@ -2,8 +2,8 @@ import portfolioImageUrl from '@/assets/Portfolio_Website.jpg'
 
 const IntroSection = () => {
     return (
-        <section className='flex justify-start items-center p-20 dark:text-slate-100'>
-            <div className="flex flex-col md:flex-row md:gap-20 gap-6">
+        <section className='flex lg:justify-start sm:justify-center items-center p-20 dark:text-slate-100'>
+            <div className="flex flex-col md:flex-row md:gap-20 sm:justify-center gap-6">
                 <img
                     src={portfolioImageUrl}
                     alt=""
